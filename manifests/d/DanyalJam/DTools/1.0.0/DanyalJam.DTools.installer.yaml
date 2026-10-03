@@ -16,7 +16,7 @@ Dependencies:
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/danyaljam/DANTOOLS/releases/download/v1.0.0/dtools-1.0.0.exe
-    InstallerSha256: 99741ef9fe076a9efa23f039645a5dc2b234023cf7666e7c08f6c45d3e582768
+    InstallerSha256: 652a952a3bdd347cb10397686892b7c1a8373fa867330c0c03d9493264aad056
     Commands:
       - dtools
 ManifestType: installer
